@@ -1,0 +1,216 @@
+.navbar {
+
+	background-color: white;
+	float: right;
+	position: relative;
+	top: 30px;
+	margin-right: 300px;
+	
+}
+
+.name {
+
+	font-family: 'Georgia', Times, serif;
+	padding: 20px;
+	color: white;
+	background-color: #4aaaa5;
+	width: 17.5%;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: #cccccc;
+	float: left;
+	margin-left: 132px;
+
+}
+
+.header {
+
+	background-color: white;
+	position: fixed;
+	margin-bottom: 150px;
+	z-index: 99;
+	width: 100%;
+
+}
+
+.navbar-brand {
+
+	color: #777777;
+}
+
+li a{
+
+	color: #777777;
+}
+
+body {
+
+	background-image: url("../images/dimension.png");
+}
+
+.about-link {
+
+	margin-right: 20px;
+}
+
+.social-media {
+
+	margin-left: 2px;
+	margin-right: 2px;
+	height: 50px;
+	width: 50px;
+}
+
+.aside {
+
+	background-color: white;
+	padding-left: 20px;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: #cccccc;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	width: 270px;
+	margin-left: 40px;
+}
+
+.connect-text {
+
+	font-family: 'Georgia', Times, serif;
+	color: #4aaaa5;
+	font-size: 28px;
+}
+
+.main {
+
+	padding-top: 150px;
+
+}
+
+.portfolio {
+
+	background-color: white;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: #cccccc;
+	width: 650px;
+}
+
+.portfolio-name {
+
+	font-family: 'Georgia', Times, serif;
+	color: #4aaaa5;
+	font-size: 28px;
+}
+
+.hangman-text {
+
+	font-family: 'Georgia', Times, serif;
+	padding: 20px;
+	color: white;
+	background-color: #4aaaa5;
+	position: relative;
+	bottom: 80px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.hangman-img {
+	
+	opacity: 0.7;
+
+}
+
+.rpg-text {
+
+	font-family: 'Georgia', Times, serif;
+	padding: 20px;
+	color: white;
+	background-color: #4aaaa5;
+	position: relative;
+	bottom: 80px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.rpg-img {
+	
+	opacity: 0.7;
+
+}
+
+.trivia-text {
+
+	font-family: 'Georgia', Times, serif;
+	padding: 20px;
+	color: white;
+	background-color: #4aaaa5;
+	position: relative;
+	bottom: 80px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.trivia-img {
+	
+	opacity: 0.7;
+
+}
+
+
+.rutgers-text {
+
+	font-family: 'Georgia', Times, serif;
+	padding: 20px;
+	color: white;
+	background-color: #4aaaa5;
+	position: relative;
+	bottom: 80px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.rutgers-img {
+	
+	opacity: 0.7;
+
+}
+
+.rps-text {
+
+	font-family: 'Georgia', Times, serif;
+	padding: 20px;
+	color: white;
+	background-color: #4aaaa5;
+	position: relative;
+	bottom: 80px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.rps-img {
+	
+	opacity: 0.7;
+
+}
+
+footer {
+
+	background-color: #666666;
+	margin-top: 100px;
+	padding: 25px;
+	border-style: solid;
+	border-bottom: none;
+	border-right: none;
+	border-left: none;
+	border-top-width: 5px;
+	border-top-color: #4aaaa5;  
+}
+
+.footer-text {
+
+	color: white;
+	text-align: center;
+	font-size: 12px;
+}
+
